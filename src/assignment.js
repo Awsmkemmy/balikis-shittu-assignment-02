@@ -21,8 +21,6 @@ const assignment = {};
     }
     return sum;
 }
-
-
 /**
  * Challenge - 2
  * 
@@ -42,7 +40,6 @@ function countEvenNumbers(arrayOfNumbers) {
     }
     return count;
 }
-
 /**
  * Challenge - 3
  * 
